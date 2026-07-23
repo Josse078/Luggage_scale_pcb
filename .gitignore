@@ -1,0 +1,10 @@
+# KiCad temporary & backup files
+*-backups/
+*.lck
+*.tmp
+*_autosave-*
+*.bak
+*_old
+
+# OS generated files
+.DS_Store
